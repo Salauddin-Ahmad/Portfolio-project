@@ -144,6 +144,7 @@ main section {
   margin: 30px;
   display: flex;
 }
-/* .resume-column , .resume-item {
-display: flex;
-} */
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
+}
