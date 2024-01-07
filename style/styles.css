@@ -34,6 +34,7 @@ nav {
 }
 .nav-title {
   color: #181818;
+  margin-left: 200px;
   font-size: 45px;
   font-weight: 800;
 }
@@ -52,9 +53,9 @@ nav a {
 /* heaader related styles */
 .header {
   background-color: #fff8f3;
-  background-image: url("/portfolio-project/images/header_bg.png");
+  background-image: url("/portfolio-project/images/header_bg.png"),url('/portfolio-project/images/developer.png');
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right, top left;
 }
 .banner {
   padding: 30px 30px 0px 150px;
